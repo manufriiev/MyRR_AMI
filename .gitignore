@@ -1,0 +1,4 @@
+readme.txt
+*.~*
+build/
+.DS_Store
