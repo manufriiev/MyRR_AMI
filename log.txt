@@ -1,0 +1,40 @@
+56f4598 HEAD@{0}: merge develop: Fast-forward
+8417982 HEAD@{1}: checkout: moving from develop to master
+56f4598 HEAD@{2}: rebase (finish): returning to refs/heads/develop
+56f4598 HEAD@{3}: rebase (start): checkout styles2
+be3db01 HEAD@{4}: checkout: moving from styles2 to develop
+56f4598 HEAD@{5}: rebase (finish): returning to refs/heads/styles2
+56f4598 HEAD@{6}: rebase (pick): new styles and changes to index.html
+be3db01 HEAD@{7}: rebase (start): checkout develop
+e47896c HEAD@{8}: checkout: moving from develop to styles2
+be3db01 HEAD@{9}: rebase (finish): returning to refs/heads/develop
+be3db01 HEAD@{10}: rebase (start): checkout images2
+8417982 HEAD@{11}: checkout: moving from images2 to develop
+be3db01 HEAD@{12}: checkout: moving from develop to images2
+8417982 HEAD@{13}: checkout: moving from styles2 to develop
+e47896c HEAD@{14}: commit: new styles and changes to index.html
+8417982 HEAD@{15}: checkout: moving from develop to styles2
+8417982 HEAD@{16}: checkout: moving from images2 to develop
+be3db01 HEAD@{17}: commit: new images and changes to index.html
+b448ddc HEAD@{18}: commit: new images and changes to index.html
+8417982 HEAD@{19}: checkout: moving from master to images2
+8417982 HEAD@{20}: merge develop: Fast-forward
+be212df HEAD@{21}: checkout: moving from develop to master
+8417982 HEAD@{22}: commit (merge): succesfull merge with styles
+176b82a HEAD@{23}: merge images: Fast-forward
+f948184 HEAD@{24}: checkout: moving from styles to develop
+3f55c67 HEAD@{25}: commit: new styles branch with styles folder and new name. What can go wrong?
+f948184 HEAD@{26}: checkout: moving from develop to styles
+f948184 HEAD@{27}: checkout: moving from images to develop
+176b82a HEAD@{28}: checkout: moving from develop to images
+f948184 HEAD@{29}: checkout: moving from images to develop
+176b82a HEAD@{30}: commit: changes to html -> images inserted
+922694c HEAD@{31}: commit: new branch images and, well, new images
+f948184 HEAD@{32}: checkout: moving from develop to images
+f948184 HEAD@{33}: commit: new branch develop and an empty index.html
+be212df HEAD@{34}: checkout: moving from master to develop
+be212df HEAD@{35}: checkout: moving from develop to master
+be212df HEAD@{36}: checkout: moving from master to develop
+be212df HEAD@{37}: commit: Adding len
+894c65f HEAD@{38}: commit: Adding rin
+0e65f76 HEAD@{39}: commit (initial): Initial readme.txt commit
